@@ -1,0 +1,72 @@
+GNU/LINUX DISTRO TIMELINE | CONTRIBUTE/TODO
+
+Use this file just like a regular todo-file.
+Delete lines that have been implemented/cleared up.
+Ideally, this file should be as empty as possible.
+
+
+============================================
+
+* Devise a good way to handle the vertical connectors. They're a pain when updating.
+Suggestion: don't add any new connectors, but keep the old ones intact.
+
+* Add Rxart, a very popular distro in Argentina (not easy to find exact info)
+* Add Midori Linux (March 2001 - ? ... seems dormant now), an influential ultralightweight distro by Transmeta.
+* Add µClinux forks (find out the exact month): µClinux SBK (1998-2001), µClinux-dist (1999-?), Arcturus Networks µClinux (2001-?), BlackFin µClinux (2003-?)
+* Add DemoLinux (probably the first LiveCD distro), started in 1998 based on Mandrake, version 2 (Apr 2000) based on Debian, discontinued in July 2002.
+
+* Fix the "SUSE question": Is it now SUSE/SLED/SLES/SLERT and how do the main line and branches (together with openSUSE) look?
+-> also include Novell Linux. See Benjamin Campbell's e-mail in the SUGGESTIONS file.
+(ask someone working at SUSE?)
+
+* Fix the "RedHat question": Is it called simply RedHat or RHEL/RHED and when did the renaming occur (month, year)?
+(ask someone working at RedHat?)
+
+
+* When adding the following, check if they're still alive today. Don't forget to delete the ones you added.
+
+64 Studio (dec 2005 -> today) (Based on Debian)
+Abul√âdu (mar 2001 -> today) (Based on Mandrake **Based on Debian & KNOPPIX since ~2005)
+ANTEMIUM (?? 2003 -> may 2005) (Based on Morphix)
+Arabbix (sep 2003 -> jun 2004) (Based on Morphix)
+Amber (feb 2004 -> apr 2006?) (Based on Debian)
+ASLinux (oct 2003 -> feb 2005) (Based on Debian)
+Augustux (apr 2003 -> jun 2003) (Based on Debian & KNOPPIX)
+B2D (jun 2004 -> today) (Based on KNOPPIX)
+BEERnix (feb 2004 -> jun 2004) (Based on KNOPPIX)
+Biadix (nov 2003 -> ??) (Based on KNOPPIX)
+BIG LINUX (summer 2004 -> today) (Based on Debian **Based on Ubuntu since ~2005)
+BlackRhino (mar 2003 -> 2003/2004) (Based on Debian)
+BrlSpeak (nov 2001 -> may 2006) (Based on Slackware **Based on Debian since oct 2003)
+C√†tix (sept 2004 -> today) (Based on KNOPPIX **Based on Debian since oct 2005)
+ClarkConnect (nov 2000 -> today) (Based on Red Hat Enterprise) (Thanks theurge)
+Clusterix (sept 2004 -> spring 2005) (Based on Morphix/KNOPPIX/Debian)
+ClusterKnoppix (may 2003 -> 2004/2005) (Based on KNOPPIX)
+Condorux (juli 2003 -> spring 2005) (KNOPPIX based)
+Danix (nov 2003 -> today) (KNOPPIX based **Based on Debian since jun 2006)
+DebXPde/Barnix (summer 2004 -> ~2005) (Based on KNOPPIX)
+DeadCD (aug 2005 -> today) (Debian based) (Renamed Olive in may 2006!)
+Dizinha (aug 2004 -> may 2006) (Based on Debian)
+Eagle M68K (1997 ->  ? dead) (Amiga)
+ERPOSS (jul 2004 -> today) (Based on Debian)
+Euronode (feb 2004 -> today) (Based on Debian)
+eduKnoppix (mar 2004 -> today) (Based on KNOPPIX)
+ESware (1999 -> summer 2004) (Based on Red Hat **Based on Debian since ~2001)
+Evinux (jan 2005 -> today) (Based on KNOPPIX)
+Famelix (may 2004 -> today) (Based on Kurumin)
+Flonix (nov 2003 -> ~2004) (Based on Damn Small Linux)
+Gobuntu (Based on Ubuntu) (fr. 2007-10 ->) (Thanks kitzogen)
+LinuxConsole (feb 2004 -> today) (Based on Mandrake)
+Linux for Playstation 2 (2002 -> ?) (Based on Kondara) (thanks brant)
+LUC3M (nov 2004 -> today) (Based on Debian) (Thanks Caerolus, Ieso Nagata)
+Luit Linux (dec 2003 -> end of 2004) (based on Damn Small Linux) (Thanks Wirbelstrom2k4)
+MoLinux (dec 2004 -> today) (Based on Debian, Based on Ubuntu since may 2005)
+Miniwoody (?? -> ??) (Based on Debian) (Renamed Bonzai in ??)
+Neo Dizinha (may 2006 -> today) (Based on Dizinha) (Renamed Patinho Faminto in aug 2006!)
+Omoikane/ARMA (feb 2000 -> today) (Based on Debian)
+Oracle Unbreakable Linux (oct 2006 -> today) (Based on Red Hat) (Thanks vasile)
+Pioneer (dec 2006 -> today) (Based on Kubuntu)
+Server optimized Linux (SoL) (mar 2002 -> today) (Created from scratch...) (Thanks Alf-Ivar Holm)
+Trusted Debian (oct 2002 -> today) (Based on Debian) (Renamed Adamantix in may 2003!)
+T2 SDE (dec 2004 -> today) (Based on ROCK Linux) (Thanks Ren√© Rebe)
+Ubuntu Studio (apr 2007 -> today) (Based on Ubuntu) (Thanks Bassett)

@@ -1,0 +1,198 @@
+GNU/LINUX DISTRO TIMELINE | CONTRIBUTE/SUGGESTIONS
+
+These are user messages with suggestions.
+Quite messy and probably lots of duplicates.
+Implement at will and delete the items you have implemented/fixed.
+Ideally, this file should be as empty as possible.
+
+============================================
+
+* T2 (forked from ROCK Linux)
+* PuppyOS (forked from T2, briefly had some Vector Linux influence)
+http://puppylinux.net/pfs
+
+(Thanks Daniel Gimpelevich)
+
+============================================
+
+ASPLinux
+
+* ASPLinux 7.1 Mria (16 April 2001)        - Red Hat based
+* ASPLinux 9 Ural (12 May 2003)            - Fedora based
+* ASPLinux v10 Karelia (23 December 2004)  - Fedora based
+* ASPLinux 11 Seliger (6 March 2006)       - Fedora based
+* ASPLinux 12 Carbon (26 November 2007)    - Fedora based
+
+Wiki - http://ru.wikipedia.org/wiki/ASPLinux
+Site - http://www.asplinux.ru/
+
+(Thanks Ivan Sheveleff)
+
+============================================
+
+SLES, SLED, and SLERT all share a common base with SUSE Linux but are packaged with different packages and modules.
+Updates to the SUSE Linux distro eventually get passed on to SLE (SUSE Linux Enterprise) family.
+I don't know if those really count as a separate distro's for your poster but if it does here's how they would fit in:
+
+S.u.S.E (1994)
+|
+V
+SuSE (December 1998)
+|
+|----> SLES (SUSE Linux Enterprise Server) (October 31, 2000) ----> (present day)
+|
+V
+SUSE Linux (September 2003)
+|
+V
+Novell acquires SUSE Linux (January 2004)
+|
+|----> NLD (Novell Linux Desktop) (November 8, 2004) ----> SLED (SUSE Linux Enterprise Desktop) (mid 2006) ----> (present day)
+|----> SLERT (SUSE Linux Enterprise Real Time) (October 24, 2006) ----> (present day)
+|
+V
+openSUSE (December 7, 2006) (NOTE: "openSUSE" is really a name change from "SUSE Linux" rather than a new distro.)
+|
+V
+(present day)
+
+Sources:
+ http://www.novell.com/news/press/archive/2003/11/pr03069.html
+ http://www.novell.com/news/press/archive/2004/11/pr04075.html 
+ http://www.novell.com/company/fastfacts.html 
+ http://www.novell.com/news/press/novell_ships_suse_linux_enterprise_real_time 
+ http://en.wikipedia.org/wiki/SUSE 
+ http://en.wikipedia.org/wiki/OpenSUSE 
+ http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Desktop 
+ http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server 
+ http://www.suse-tr.com/index.php?option=com_content&task=view&id=5&Itemid=6&lang=en
+
+(Thanks Benjamin Campbell)
+
+============================================
+
+* Resulinux
+
+Debian -> Resulinux 25/01/2006 
+(http://www.resulinux.com) 
+
+(Thanks Luciano Andress Martini)
+
+============================================
+
+Pink Tie Linux (www.pinktie.com)
+(Started: Unknown... Stopped: 2006?)
+
+(Thanks Tim Heckman)
+
+============================================
+
+Maemo
+(Nokia NXX0 series - internet tablet. No further details)
+
+Mamona
+(Mamona started in mid 2007, and was in the beginning based on Linux
+from scratch, but Linux from scratch was dropped and then it was build
+from scratch using a Debian like structure as well as Debian packages,
+making use of the openembedded project.)
+
+(Thanks Kenneth Rohde Christiansen)
+
+============================================
+
+Some miscelaneous distros (various sources)
+
+2X ThinClientOS, based on Debian
+ADIOS (july 2003?), based on Fedora 
+Admelix, based on Ubuntu
+Alinex, based on Ubuntu
+AliXe, based on SLAX
+APODIO based on Mandriva
+Arabian, based on Debian/Ubuntu
+ArcheOS, based on PCLinuxOS
+Archie (formerly AL-AMLUG), based on Arch
+ArtistX (former Medialinux, renamed to Mediainlinux july 04, renamed to ArtistX apr 07 ?), based on Knoppix
+Arudius, based on Slackware/Zenwalk
+ASP Linux, merged with CIS Linux in march 01
+Athene
+Atomix, based on Fedora
+Adamantix (former Trusted Debian) http://www.adamantix.org
+AGNULA (DeMuDi, Debian based & ReHMuDi, Red Hat based)
+Alzza Linux (?)
+andLinux (originally Debian-based, currently Ubuntu-based)
+aXon Linux (?)
+Bad Penguin http://www.badpenguin.org/badpenguin/index.html
+Bastille Linux (mere security solution?)
+BeaFanatIX, based on BeatrIX
+BearOps Desktop Linux OS (dead 2001?) http://www.bearops.com/
+BeleniX
+Burapha Linux Server (form. Burapha Linux), based on Slackware
+CHAINSAWLINUX (Slackware based) http://www.chainsawlinux.com
+CIS Linux (merged with ASP Linux?)
+CLE (Chinese Linux Extension) (Red Hat based)
+Debian JP (Japanese, Debian based) http://www.debian.or.jp
+Definite Linux (British, started 2000?, Red Hat based?)
+Dualix http://planetmirror.com/pub/dualix/
+GenieOS (also known as Debian Pure...?)
+Gentus http://home.c2i.net/espensh/
+Giotto http://old.quietsche-entchen.de/giotto/
+Gnoppix http://www.gnoppix.org
+gnUAMix (Short lived Spanish Debian based university project, 2003)
+Haansoft (Korean, Asianux based) http://www.haansoftlinux.com
+Hancom (1999?)
+IcePack Linux (?)
+Independence Linux (Red Hat based) http://independence.seul.org/
+Kondara/MNU Linux (RPM-based, Japan)
+KRUD Linux (?)
+Linuxin (Debian based) http://linuxin.paislinux.net
+LinuxPPC (for PPC)
+MeNTOPPIX
+mkLinux (Apple-sponsored!)
+Model K (Distro from which DSL was originally based?)
+Montavista
+OS2000
+Paipix
+Pie Box Enterprise Linux
+QiLinux
+RAYS LX (Chinese, Debian based) http://www.swhss.com.cn
+Red Escolar (Mexican)
+RTLinux ("Real Time" - used in some embedded devices)
+SantaFe Linux (?)
+Snapgear
+SOT Linux (Red Hat/Fedora based? Renamed Best Linux (when?), then back to SOT Linux (apr02?), then LBA Linux (mar04?)) (Project dead dec04/jan05)
+Sun JDS (hard drive distro based on SUSE, Live-CD based on Morphix?)
+Ultima Linux
+VA Linux (Red Hat based)
+Windriver PNE LE
+WinSlack (?)
+
+============================================
+
+Slackware
+|
+V
+PKLinux http://linuxpakistan.sourceforge.net/pklinux/info.html
+BasicLinux http://www.volny.cz/basiclinux/
+ZipSpeak http://www.linux-speakup.org/ftp/disks/slackware/zipspeak/
+Arudius http://arudius.sourceforge.net/
+
+Red Hat Enterprise Linux  << http://www.redhat.com/ >>
+|
+V
+ASPLinux  << http://www.asplinux.ru/en/ >>
+LinuxInstall.org << http://linuxinstall.org/ >>
+BU Linux  << http://www.bu.edu/computing/linux/ >>
+CERN Linux  << http://linux.web.cern.ch/linux/ >>
+Insigne GNU/Linux  << http://www.insignesoftware.com/produtos/gnu.php >>
+Lineox Enterprise Linux  << http://www.lineox.com >>
+Fermi Linux  << http://www-oss.fnal.gov/projects/fermilinux/ >>
+Pie Box Enterprise Linux  << http://www.piebox.com/ >>
+
+Fedora 
+|
+V
+PCQuest Linux  http://www.pcquest.com/
+
+(Thanks DLHDavidLH)
+
+============================================

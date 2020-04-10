@@ -1,0 +1,47 @@
+GNU/LINUX DISTRO TIMELINE | CONTRIBUTE/INFO
+
+If you want to update the timeline, drop a mail to the maintainer
+(Andreas Lundqvist) and tell him how long you wish to "reserve" it
+in order to prevent two people making changes at the same time.
+
+The recommended program to edit the .svgz is Inkscape.
+
+The main file to work upon is the TODO.
+If you run out of work, take a look at the SUGGESTIONS file (user e-mails).
+
+Updating the distribution_data.ods spreadsheed is welcome.
+
+Feel free to change things. If you think any of these files can be improved,
+do it! The same goes for the colors and layout of the timeline, the "packaging"
+of the project and everything else. Just make it clear in the CHANGELOG.
+
+============================================
+
+Please take care to work as _precisely_ as possible.
+Here are some guidelines:
+
+* The font is Blue Highway, which can be downloaded from
+www.dafont.com (or Google).
+
+* The width of the distro lines should be kept at 3 pixel units
+(turn off "scale width when resizing").
+
+* Each distro line is centered on a horizontal grid line.
+
+* The distro lines are at steps of 2 grid units apart from each other.
+
+* When adding new year lines, the distance is exactly 115 pixel units.
+
+* Keep the dots, lines and names in their corresponding layers.
+
+* The color of a distro dot and line should match its "flag color".
+(Debian = dark red, etc.)
+
+* Add your name to the "Updates:" in the Info-Box.
+
+* Write all changes into the CHANGELOG.
+
+* Try to add more than just 1 distro. (see TODO and SUGGESTIONS)
+
+* Do not alter history. Neither for your favourite distro nor those you dislike.
+Unless you're absolutely sure, consult the maintainer.

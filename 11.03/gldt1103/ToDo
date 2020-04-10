@@ -1,0 +1,165 @@
+GNU/LINUX DISTRIBUTION TIMELINE | ToDo
+======================================
+
+Chose a good portable (web) font (at least GNU/Linux, OSX and Windows)
+or figure out how to do those web-referenced fonts (http://en.wikipedia.org/wiki/Font_embedding_on_the_Web)
+or use typeface.js (http://typeface.neocracy.org/examples.html)
+
+Collect icons (24x24 or 28x28).
+
+Change to .tar.gz (worse ratio, but faster decompression and lower memory usage)?
+Change to .tar.xz (slower, but better compression and probably next standard)?
+
+
+============================================
+
+http://distrowatch.com/
+http://en.wikipedia.org/wiki/List_of_Linux_distributions
+http://linux.tronk.net/archives/88
+http://lwn.net/Distributions/
+
+============================================
+
+
+Add Rxart, a very popular distro in Argentina (not easy to find exact info)
+Add µClinux forks (find out the exact month): µClinux SBK (1998-2001), µClinux-dist (1999-?), Arcturus Networks µClinux (2001-?), BlackFin µClinux (2003-?)
+
+Vinux (2008.12.12, previously Vibuntu 2008.12.01)  http://vinux.org.uk/, http://blinuxman.net/projects/oldvinux.php
+Asturix (based on Ubuntu, 2009.3) http://asturix.com/
+Nisix
+Express-linux
+Dax OS
+Singularity Linux
+VENENUX
+Sn0w L1nuX
+Porteus
+KeeP-OS
+
+Abul√âdu (mar 2001 -> today) (Based on Mandrake **Based on Debian & KNOPPIX since ~2005)
+ANTEMIUM (?? 2003 -> may 2005) (Based on Morphix)
+Arabbix (sep 2003 -> jun 2004) (Based on Morphix)
+Amber (feb 2004 -> apr 2006?) (Based on Debian)
+Augustux (apr 2003 -> jun 2003) (Based on Debian & KNOPPIX)
+B2D (jun 2004 -> today) (Based on KNOPPIX)
+BEERnix (feb 2004 -> jun 2004) (Based on KNOPPIX)
+Biadix (nov 2003 -> ??) (Based on KNOPPIX)
+BIG LINUX (summer 2004 -> today) (Based on Debian **Based on Ubuntu since ~2005)
+BlackRhino (mar 2003 -> 2003/2004) (Based on Debian)
+BrlSpeak (nov 2001 -> may 2006) (Based on Slackware **Based on Debian since oct 2003)
+C√†tix (sept 2004 -> today) (Based on KNOPPIX **Based on Debian since oct 2005)
+Clusterix (sept 2004 -> spring 2005) (Based on Morphix/KNOPPIX/Debian)
+ClusterKnoppix (may 2003 -> 2004/2005) (Based on KNOPPIX)
+Condorux (juli 2003 -> spring 2005) (KNOPPIX based)
+DebXPde/Barnix (summer 2004 -> ~2005) (Based on KNOPPIX)
+Eagle M68K (1997 ->  ? dead) (Amiga)
+ERPOSS (jul 2004 -> today) (Based on Debian)
+Euronode (feb 2004 -> today) (Based on Debian)
+eduKnoppix (mar 2004 -> today) (Based on KNOPPIX)
+ESware (1999 -> summer 2004) (Based on Red Hat **Based on Debian since ~2001)
+Evinux (jan 2005 -> today) (Based on KNOPPIX)
+Famelix (may 2004 -> today) (Based on Kurumin)
+Flonix (nov 2003 -> ~2004) (Based on Damn Small Linux)
+Gobuntu (Based on Ubuntu) (fr. 2007-10 ->) (Thanks kitzogen)
+LinuxConsole (feb 2004 -> today) (Based on Mandrake)
+Linux for Playstation 2 (2002 -> ?) (Based on Kondara) (thanks brant)
+LUC3M (nov 2004 -> today) (Based on Debian) (Thanks Caerolus, Ieso Nagata)
+Luit Linux (dec 2003 -> end of 2004) (based on Damn Small Linux) (Thanks Wirbelstrom2k4)
+Pioneer (dec 2006 -> today) (Based on Kubuntu)
+Server optimized Linux (SoL) (mar 2002 -> today) (Created from scratch...) (Thanks Alf-Ivar Holm)
+Trusted Debian (oct 2002 -> today) (Based on Debian) (Renamed Adamantix in may 2003!)
+T2 SDE (dec 2004 -> today) (Based on ROCK Linux) (Thanks Ren√© Rebe)
+Ubuntu Studio (apr 2007 -> today) (Based on Ubuntu) (Thanks Bassett)
+
+
+2X ThinClientOS, based on Debian
+ADIOS (july 2003?), based on Fedora 
+Admelix, based on Ubuntu
+Alinex, based on Ubuntu
+AliXe, based on SLAX
+APODIO based on Mandriva
+Arabian, based on Debian/Ubuntu
+ArcheOS, based on PCLinuxOS
+Archie (formerly AL-AMLUG), based on Arch
+ArtistX (former Medialinux, renamed to Mediainlinux july 04, renamed to ArtistX apr 07 ?), based on Knoppix
+Arudius, based on Slackware/Zenwalk
+ASP Linux, merged with CIS Linux in march 01
+Athene
+Atomix, based on Fedora
+Adamantix (former Trusted Debian) http://www.adamantix.org
+AGNULA (DeMuDi, Debian based & ReHMuDi, Red Hat based)
+Alzza Linux (?)
+andLinux (originally Debian-based, currently Ubuntu-based)
+aXon Linux (?)
+Bad Penguin http://www.badpenguin.org/badpenguin/index.html
+Bastille Linux (mere security solution?)
+BeaFanatIX, based on BeatrIX
+BearOps Desktop Linux OS (dead 2001?) http://www.bearops.com/
+BeleniX
+Bodhi Linux, based on Ubuntu, http://bodhilinux.com/, start date May 2010(?), color #008F00
+Burapha Linux Server (form. Burapha Linux), based on Slackware
+CHAINSAWLINUX (Slackware based) http://www.chainsawlinux.com
+CIS Linux (merged with ASP Linux?)
+CLE (Chinese Linux Extension) (Red Hat based)
+Debian JP (Japanese, Debian based) http://www.debian.or.jp
+Definite Linux (British, started 2000?, Red Hat based?)
+Dualix http://planetmirror.com/pub/dualix/
+GenieOS (also known as Debian Pure...?)
+Gentus http://home.c2i.net/espensh/
+Giotto http://old.quietsche-entchen.de/giotto/
+Gnoppix http://www.gnoppix.org
+gnUAMix (Short lived Spanish Debian based university project, 2003)
+Haansoft (Korean, Asianux based) http://www.haansoftlinux.com
+Hancom (1999?)
+IcePack Linux (?)
+Kondara/MNU Linux (RPM-based, Japan)
+Linuxin (Debian based) http://linuxin.paislinux.net
+LinuxPPC (for PPC)
+MeNTOPPIX
+mkLinux (Apple-sponsored!)
+Model K (Distro from which DSL was originally based?)
+Montavista
+OS2000
+Paipix
+Pie Box Enterprise Linux
+RAYS LX (Chinese, Debian based) http://www.swhss.com.cn
+Red Escolar (Mexican)
+RTLinux ("Real Time" - used in some embedded devices)
+SantaFe Linux (?)
+Snapgear
+Ultima Linux
+VA Linux (Red Hat based)
+Windriver PNE LE
+WinSlack (?)
+
+
+============================================
+
+Pink Tie Linux (www.pinktie.com)
+(Started: Unknown... Stopped: 2006?)
+
+(Thanks Tim Heckman)
+
+============================================
+
+Slackware
+|
+V
+PKLinux http://linuxpakistan.sourceforge.net/pklinux/info.html
+BasicLinux http://www.volny.cz/basiclinux/
+ZipSpeak http://www.linux-speakup.org/ftp/disks/slackware/zipspeak/
+Arudius http://arudius.sourceforge.net/
+
+Red Hat Enterprise Linux  << http://www.redhat.com/ >>
+|
+V
+LinuxInstall.org << http://linuxinstall.org/ >>
+Insigne GNU/Linux  << http://www.insignesoftware.com/produtos/gnu.php >>
+Lineox Enterprise Linux  << http://www.lineox.com >>
+Pie Box Enterprise Linux  << http://www.piebox.com/ >>
+
+Fedora 
+|
+V
+PCQuest Linux  http://www.pcquest.com/
+
+(Thanks DLHDavidLH)
