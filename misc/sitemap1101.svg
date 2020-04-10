@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!-- Created with gnuclad 0.2.2 -->
+
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  xmlns:svg='http://www.w3.org/2000/svg'
+  xmlns:xlink='http://www.w3.org/1999/xlink'
+  xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape'
+  xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:cc='http://creativecommons.org/ns#'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  version='1.1'
+  width='900'
+  height='1460'
+>
+
+<title>GLDT project sitemap 11.1</title>
+
+<defs>
+
+  <linearGradient id='__yearline' x1='0' y1='0' x2='1' y2='0'>
+    <stop stop-color='#037' offset='0' stop-opacity='1' />
+    <stop stop-color='#37d' offset='1' stop-opacity='1' />
+  </linearGradient>
+
+  <linearGradient id='__infobox_fill' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#51b1f1' offset='0' stop-opacity='1' />
+    <stop stop-color='#3181f1' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <linearGradient id='__infobox_stroke' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#3181f1' offset='0' stop-opacity='1' />
+    <stop stop-color='#51b1f1' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <filter id='__infobox_shadow' color-interpolation-filters='sRGB'>
+    <feGaussianBlur stdDeviation='5' />
+  </filter>
+
+
+  <circle id='__connectors_start' cx='0' cy='0' r='1' stroke='none' />
+<rect id='__fadeout' height='1' width='0' y='-0.5' x='0'/>
+<!-- BEGIN additional SVG images - definitions -->
+
+<!-- END additional SVG images - definitions -->
+
+</defs>
+
+<g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
+  <rect x='0' y='0' width='900' height='1460' rx='10' ry='10' fill='#fff' />
+</g>
+
+<g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#eee'>
+  <line x1='10' y1='0' x2='10' y2='1460' stroke-width='2' stroke='#ddd' />
+    <line x1='28' y1='0' x2='28' y2='1460' />
+    <line x1='46' y1='0' x2='46' y2='1460' />
+    <line x1='65' y1='0' x2='65' y2='1460' />
+    <line x1='83' y1='0' x2='83' y2='1460' />
+    <line x1='101' y1='0' x2='101' y2='1460' />
+    <line x1='120' y1='0' x2='120' y2='1460' />
+    <line x1='138' y1='0' x2='138' y2='1460' />
+    <line x1='156' y1='0' x2='156' y2='1460' />
+    <line x1='175' y1='0' x2='175' y2='1460' />
+    <line x1='193' y1='0' x2='193' y2='1460' />
+    <line x1='211' y1='0' x2='211' y2='1460' />
+  <line x1='230' y1='0' x2='230' y2='1460' stroke-width='2' stroke='#ddd' />
+    <line x1='248' y1='0' x2='248' y2='1460' />
+    <line x1='266' y1='0' x2='266' y2='1460' />
+    <line x1='285' y1='0' x2='285' y2='1460' />
+    <line x1='303' y1='0' x2='303' y2='1460' />
+    <line x1='321' y1='0' x2='321' y2='1460' />
+    <line x1='340' y1='0' x2='340' y2='1460' />
+    <line x1='358' y1='0' x2='358' y2='1460' />
+    <line x1='376' y1='0' x2='376' y2='1460' />
+    <line x1='395' y1='0' x2='395' y2='1460' />
+    <line x1='413' y1='0' x2='413' y2='1460' />
+    <line x1='431' y1='0' x2='431' y2='1460' />
+  <line x1='450' y1='0' x2='450' y2='1460' stroke-width='2' stroke='#ddd' />
+    <line x1='468' y1='0' x2='468' y2='1460' />
+    <line x1='486' y1='0' x2='486' y2='1460' />
+    <line x1='505' y1='0' x2='505' y2='1460' />
+    <line x1='523' y1='0' x2='523' y2='1460' />
+    <line x1='541' y1='0' x2='541' y2='1460' />
+    <line x1='560' y1='0' x2='560' y2='1460' />
+    <line x1='578' y1='0' x2='578' y2='1460' />
+    <line x1='596' y1='0' x2='596' y2='1460' />
+    <line x1='615' y1='0' x2='615' y2='1460' />
+    <line x1='633' y1='0' x2='633' y2='1460' />
+    <line x1='651' y1='0' x2='651' y2='1460' />
+  <line x1='670' y1='0' x2='670' y2='1460' stroke-width='2' stroke='#ddd' />
+    <line x1='688' y1='0' x2='688' y2='1460' />
+    <line x1='706' y1='0' x2='706' y2='1460' />
+    <line x1='725' y1='0' x2='725' y2='1460' />
+    <line x1='743' y1='0' x2='743' y2='1460' />
+    <line x1='761' y1='0' x2='761' y2='1460' />
+    <line x1='780' y1='0' x2='780' y2='1460' />
+    <line x1='798' y1='0' x2='798' y2='1460' />
+    <line x1='816' y1='0' x2='816' y2='1460' />
+    <line x1='835' y1='0' x2='835' y2='1460' />
+    <line x1='853' y1='0' x2='853' y2='1460' />
+    <line x1='871' y1='0' x2='871' y2='1460' />
+  <line x1='890' y1='0' x2='890' y2='1460' stroke-width='2' stroke='#ddd' />
+</g>
+
+<g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
+</g>
+
+<g inkscape:label='Connectors' inkscape:groupmode='layer' id='layer_connectors'
+style='opacity:0.6;' >
+</g>
+
+<g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
+ style='fill:none;stroke-width:1;' >
+  <path id='__line_x-tarbz2.png' d='M 10 30 C 175,30 65,1430 230,1430 L 230 1430 L 230 1430' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_ldt684.png' d='M 230 30 C 395,30 285,110 450,110 L 450 110 L 450 110' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_ldt68.png' d='M 230 30 C 395,30 285,30 450,30 L 450 30 L 450 30' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_ldt681.png' d='M 230 30 C 395,30 285,50 450,50 L 450 50 L 450 50' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_ldt682.png' d='M 230 30 C 395,30 285,70 450,70 L 450 70 L 450 70' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_ldt683.png' d='M 230 30 C 395,30 285,90 450,90 L 450 90 L 450 90' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_06.08' d='M 10 30 C 175,30 65,30 230,30 L 230 30 L 230 30' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_ldt69.png' d='M 230 110 C 395,110 285,130 450,130 L 450 130 L 450 130' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_06.09' d='M 10 30 C 175,30 65,110 230,110 L 230 110 L 230 110' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_ldt72.png' d='M 230 130 C 395,130 285,150 450,150 L 450 150 L 450 150' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_07.02' d='M 10 30 C 175,30 65,130 230,130 L 230 130 L 230 130' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_ldt75.png' d='M 230 150 C 395,150 285,170 450,170 L 450 170 L 450 170' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_07.05' d='M 10 30 C 175,30 65,150 230,150 L 230 150 L 230 150' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt76.tar.bz2' d='M 230 170 C 395,170 285,210 450,210 L 450 210 L 450 210' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt76.png' d='M 230 170 C 395,170 285,190 450,190 L 450 190 L 450 190' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_07.06' d='M 10 30 C 175,30 65,170 230,170 L 230 170 L 230 170' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt92.tar.bz2' d='M 230 210 C 395,210 285,250 450,250 L 450 250 L 450 250' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt92.png' d='M 230 210 C 395,210 285,230 450,230 L 450 230 L 450 230' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_09.02' d='M 10 30 C 175,30 65,210 230,210 L 230 210 L 230 210' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt93.tar.bz2' d='M 230 250 C 395,250 285,290 450,290 L 450 290 L 450 290' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt93.png' d='M 230 250 C 395,250 285,270 450,270 L 450 270 L 450 270' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_09.03' d='M 10 30 C 175,30 65,250 230,250 L 230 250 L 230 250' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1002.tar.bz2' d='M 230 290 C 395,290 285,350 450,350 L 450 350 L 450 350' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1002.png' d='M 230 290 C 395,290 285,310 450,310 L 450 310 L 450 310' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1002.svg' d='M 230 290 C 395,290 285,330 450,330 L 450 330 L 450 330' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.02' d='M 10 30 C 175,30 65,290 230,290 L 230 290 L 230 290' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1003.tar.bz2' d='M 230 350 C 395,350 285,410 450,410 L 450 410 L 450 410' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1003.png' d='M 230 350 C 395,350 285,370 450,370 L 450 370 L 450 370' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1003.svg' d='M 230 350 C 395,350 285,390 450,390 L 450 390 L 450 390' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.03' d='M 10 30 C 175,30 65,350 230,350 L 230 350 L 230 350' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1004.tar.bz2' d='M 230 410 C 395,410 285,470 450,470 L 450 470 L 450 470' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1004.png' d='M 230 410 C 395,410 285,430 450,430 L 450 430 L 450 430' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1004.svg' d='M 230 410 C 395,410 285,450 450,450 L 450 450 L 450 450' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.04' d='M 10 30 C 175,30 65,410 230,410 L 230 410 L 230 410' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1005.tar.bz2' d='M 230 470 C 395,470 285,530 450,530 L 450 530 L 450 530' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1005.png' d='M 230 470 C 395,470 285,490 450,490 L 450 490 L 450 490' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1005.svg' d='M 230 470 C 395,470 285,510 450,510 L 450 510 L 450 510' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.05' d='M 10 30 C 175,30 65,470 230,470 L 230 470 L 230 470' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1006.tar.bz2' d='M 230 530 C 395,530 285,590 450,590 L 450 590 L 450 590' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1006.png' d='M 230 530 C 395,530 285,550 450,550 L 450 550 L 450 550' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1006.svg' d='M 230 530 C 395,530 285,570 450,570 L 450 570 L 450 570' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.06' d='M 10 30 C 175,30 65,530 230,530 L 230 530 L 230 530' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1007.tar.bz2' d='M 230 590 C 395,590 285,650 450,650 L 450 650 L 450 650' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1007.png' d='M 230 590 C 395,590 285,610 450,610 L 450 610 L 450 610' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1007.svg' d='M 230 590 C 395,590 285,630 450,630 L 450 630 L 450 630' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.07' d='M 10 30 C 175,30 65,590 230,590 L 230 590 L 230 590' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1008.tar.bz2' d='M 230 650 C 395,650 285,710 450,710 L 450 710 L 450 710' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1008.png' d='M 230 650 C 395,650 285,670 450,670 L 450 670 L 450 670' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1008.svg' d='M 230 650 C 395,650 285,690 450,690 L 450 690 L 450 690' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.08' d='M 10 30 C 175,30 65,650 230,650 L 230 650 L 230 650' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1009.tar.bz2' d='M 230 710 C 395,710 285,770 450,770 L 450 770 L 450 770' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1009.png' d='M 230 710 C 395,710 285,730 450,730 L 450 730 L 450 730' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1009.svg' d='M 230 710 C 395,710 285,750 450,750 L 450 750 L 450 750' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.09' d='M 10 30 C 175,30 65,710 230,710 L 230 710 L 230 710' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1010.tar.bz2' d='M 230 770 C 395,770 285,830 450,830 L 450 830 L 450 830' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1010.png' d='M 230 770 C 395,770 285,790 450,790 L 450 790 L 450 790' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1010.svg' d='M 230 770 C 395,770 285,810 450,810 L 450 810 L 450 810' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.10' d='M 10 30 C 175,30 65,770 230,770 L 230 770 L 230 770' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1011.tar.bz2' d='M 230 830 C 395,830 285,890 450,890 L 450 890 L 450 890' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1011.png' d='M 230 830 C 395,830 285,850 450,850 L 450 850 L 450 850' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1011.svg' d='M 230 830 C 395,830 285,870 450,870 L 450 870 L 450 870' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.11' d='M 10 30 C 175,30 65,830 230,830 L 230 830 L 230 830' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1012.tar.bz2' d='M 230 890 C 395,890 285,950 450,950 L 450 950 L 450 950' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1012.png' d='M 230 890 C 395,890 285,910 450,910 L 450 910 L 450 910' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1012.svg' d='M 230 890 C 395,890 285,930 450,930 L 450 930 L 450 930' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_10.12' d='M 10 30 C 175,30 65,890 230,890 L 230 890 L 230 890' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1101.tar.bz2' d='M 230 950 C 395,950 285,1010 450,1010 L 450 1010 L 450 1010' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1101.png' d='M 230 950 C 395,950 285,970 450,970 L 450 970 L 450 970' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1101.svg' d='M 230 950 C 395,950 285,990 450,990 L 450 990 L 450 990' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_11.01' d='M 10 30 C 175,30 65,950 230,950 L 230 950 L 230 950' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_adfreebutton.png' d='M 10 30 C 175,30 65,1010 230,1010 L 230 1010 L 230 1010' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_bsdt1009.tar.bz2' d='M 230 1030 C 395,1030 285,1070 450,1070 L 450 1070 L 450 1070' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_bsdt1009.png' d='M 230 1030 C 395,1030 285,1030 450,1030 L 450 1030 L 450 1030' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_bsdt1009.svg' d='M 230 1030 C 395,1030 285,1050 450,1050 L 450 1050 L 450 1050' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_bsdt' d='M 10 30 C 175,30 65,1030 230,1030 L 230 1030 L 230 1030' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt-header1.png' d='M 10 30 C 175,30 65,1070 230,1070 L 230 1070 L 230 1070' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gnuclad-files.png' d='M 230 1090 C 395,1090 285,1130 450,1130 L 450 1130 L 450 1130' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_build.sh' d='M 230 1090 C 395,1090 285,1090 450,1090 L 450 1090 L 450 1090' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1007-files.png' d='M 230 1090 C 395,1090 285,1110 450,1110 L 450 1110 L 450 1110' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gnuclad' d='M 10 30 C 175,30 65,1090 230,1090 L 230 1090 L 230 1090' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_sitemap1101.svg' d='M 230 1130 C 395,1130 285,1190 450,1190 L 450 1190 L 450 1190' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_connectors.png' d='M 230 1130 C 395,1130 285,1150 450,1150 L 450 1150 L 450 1150' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_sitemap.conf' d='M 230 1130 C 395,1130 285,1170 450,1170 L 450 1170 L 450 1170' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_misc' d='M 10 30 C 175,30 65,1130 230,1130 L 230 1130 L 230 1130' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_slackware1007.png' d='M 230 1190 C 395,1190 285,1310 450,1310 L 450 1310 L 450 1310' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_debian1007.png' d='M 230 1190 C 395,1190 285,1210 450,1210 L 450 1210 L 450 1210' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_fedora1010.png' d='M 230 1190 C 395,1190 285,1230 450,1230 L 450 1230 L 450 1230' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gentoo1010.png' d='M 230 1190 C 395,1190 285,1250 450,1250 L 450 1250 L 450 1250' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_knoppix1010.png' d='M 230 1190 C 395,1190 285,1270 450,1270 L 450 1270 L 450 1270' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_redhat1007.png' d='M 230 1190 C 395,1190 285,1290 450,1290 L 450 1290 L 450 1290' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_subtrees' d='M 10 30 C 175,30 65,1190 230,1190 L 230 1190 L 230 1190' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_gldt1011-naturalselection.svg' d='M 450 1350 C 615,1350 505,1370 670,1370 L 670 1370 L 670 1370' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1008-fancy.png' d='M 230 1310 C 395,1310 285,1330 450,1330 L 450 1330 L 450 1330' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1011-naturalselection.tar.bz2' d='M 450 1350 C 615,1350 505,1390 670,1390 L 670 1390 L 670 1390' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_gldt1011-naturalselection.png' d='M 450 1350 C 615,1350 505,1350 670,1350 L 670 1350 L 670 1350' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_natsel1011' d='M 230 1310 C 395,1310 285,1350 450,1350 L 450 1350 L 450 1350' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_variants' d='M 10 30 C 175,30 65,1310 230,1310 L 230 1310 L 230 1310' stroke='#00f' style='stroke-width:1;' />
+  <path id='__line_x-png.png' d='M 10 30 C 175,30 65,1390 230,1390 L 230 1390 L 230 1390' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_x-svg.png' d='M 10 30 C 175,30 65,1410 230,1410 L 230 1410 L 230 1410' stroke='#aaf' style='stroke-width:1;' />
+  <path id='__line_uploads' d='M 10 30 L 10 30' stroke='#00f' style='stroke-width:1;' />
+</g>
+
+<g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
+ style='stroke:none;' >
+  <circle id='__dot_x-tarbz2.png' cx='230' cy='1430' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_ldt684.png' cx='450' cy='110' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_ldt68.png' cx='450' cy='30' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_ldt681.png' cx='450' cy='50' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_ldt682.png' cx='450' cy='70' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_ldt683.png' cx='450' cy='90' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_06.08' cx='230' cy='30' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_ldt69.png' cx='450' cy='130' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_06.09' cx='230' cy='110' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_ldt72.png' cx='450' cy='150' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_07.02' cx='230' cy='130' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_ldt75.png' cx='450' cy='170' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_07.05' cx='230' cy='150' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt76.tar.bz2' cx='450' cy='210' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt76.png' cx='450' cy='190' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_07.06' cx='230' cy='170' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt92.tar.bz2' cx='450' cy='250' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt92.png' cx='450' cy='230' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_09.02' cx='230' cy='210' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt93.tar.bz2' cx='450' cy='290' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt93.png' cx='450' cy='270' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_09.03' cx='230' cy='250' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1002.tar.bz2' cx='450' cy='350' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1002.png' cx='450' cy='310' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1002.svg' cx='450' cy='330' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.02' cx='230' cy='290' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1003.tar.bz2' cx='450' cy='410' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1003.png' cx='450' cy='370' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1003.svg' cx='450' cy='390' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.03' cx='230' cy='350' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1004.tar.bz2' cx='450' cy='470' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1004.png' cx='450' cy='430' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1004.svg' cx='450' cy='450' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.04' cx='230' cy='410' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1005.tar.bz2' cx='450' cy='530' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1005.png' cx='450' cy='490' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1005.svg' cx='450' cy='510' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.05' cx='230' cy='470' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1006.tar.bz2' cx='450' cy='590' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1006.png' cx='450' cy='550' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1006.svg' cx='450' cy='570' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.06' cx='230' cy='530' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1007.tar.bz2' cx='450' cy='650' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1007.png' cx='450' cy='610' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1007.svg' cx='450' cy='630' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.07' cx='230' cy='590' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1008.tar.bz2' cx='450' cy='710' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1008.png' cx='450' cy='670' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1008.svg' cx='450' cy='690' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.08' cx='230' cy='650' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1009.tar.bz2' cx='450' cy='770' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1009.png' cx='450' cy='730' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1009.svg' cx='450' cy='750' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.09' cx='230' cy='710' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1010.tar.bz2' cx='450' cy='830' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1010.png' cx='450' cy='790' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1010.svg' cx='450' cy='810' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.10' cx='230' cy='770' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1011.tar.bz2' cx='450' cy='890' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1011.png' cx='450' cy='850' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1011.svg' cx='450' cy='870' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.11' cx='230' cy='830' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1012.tar.bz2' cx='450' cy='950' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1012.png' cx='450' cy='910' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1012.svg' cx='450' cy='930' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_10.12' cx='230' cy='890' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1101.tar.bz2' cx='450' cy='1010' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1101.png' cx='450' cy='970' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1101.svg' cx='450' cy='990' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_11.01' cx='230' cy='950' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_adfreebutton.png' cx='230' cy='1010' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_bsdt1009.tar.bz2' cx='450' cy='1070' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_bsdt1009.png' cx='450' cy='1030' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_bsdt1009.svg' cx='450' cy='1050' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_bsdt' cx='230' cy='1030' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt-header1.png' cx='230' cy='1070' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gnuclad-files.png' cx='450' cy='1130' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_build.sh' cx='450' cy='1090' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1007-files.png' cx='450' cy='1110' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gnuclad' cx='230' cy='1090' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_sitemap1101.svg' cx='450' cy='1190' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_connectors.png' cx='450' cy='1150' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_sitemap.conf' cx='450' cy='1170' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_misc' cx='230' cy='1130' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_slackware1007.png' cx='450' cy='1310' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_debian1007.png' cx='450' cy='1210' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_fedora1010.png' cx='450' cy='1230' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gentoo1010.png' cx='450' cy='1250' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_knoppix1010.png' cx='450' cy='1270' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_redhat1007.png' cx='450' cy='1290' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_subtrees' cx='230' cy='1190' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_gldt1011-naturalselection.svg' cx='670' cy='1370' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1008-fancy.png' cx='450' cy='1330' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1011-naturalselection.tar.bz2' cx='670' cy='1390' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_gldt1011-naturalselection.png' cx='670' cy='1350' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_natsel1011' cx='450' cy='1350' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_variants' cx='230' cy='1310' r='4' fill='#00f' stroke='none' />
+  <circle id='__dot_x-png.png' cx='230' cy='1390' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_x-svg.png' cx='230' cy='1410' r='4' fill='#aaf' stroke='none' />
+  <circle id='__dot_uploads' cx='10' cy='30' r='4' fill='#00f' stroke='none' />
+</g>
+
+<g inkscape:label='Icons' inkscape:groupmode='layer' id='layer_icons'>
+</g>
+
+<g inkscape:label='Labels' inkscape:groupmode='layer' id='layer_labels' 
+ style='font-size:12px;stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='233' y='1417' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/x-tarbz2.png'><text x='234' y='1426'  >x-tarbz2.png</text></a>
+  <rect x='453' y='97' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.08/ldt684.png'><text x='454' y='106'  >ldt684.png</text></a>
+  <rect x='453' y='17' width='53' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.08/ldt68.png'><text x='454' y='26'  >ldt68.png</text></a>
+  <rect x='453' y='37' width='60' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.08/ldt681.png'><text x='454' y='46'  >ldt681.png</text></a>
+  <rect x='453' y='57' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.08/ldt682.png'><text x='454' y='66'  >ldt682.png</text></a>
+  <rect x='453' y='77' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.08/ldt683.png'><text x='454' y='86'  >ldt683.png</text></a>
+  <rect x='233' y='17' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='26'  >06.08</text>
+  <rect x='453' y='117' width='53' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/06.09/ldt69.png'><text x='454' y='126'  >ldt69.png</text></a>
+  <rect x='233' y='97' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='106'  >06.09</text>
+  <rect x='453' y='137' width='53' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/07.02/ldt72.png'><text x='454' y='146'  >ldt72.png</text></a>
+  <rect x='233' y='117' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='126'  >07.02</text>
+  <rect x='453' y='157' width='53' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/07.05/ldt75.png'><text x='454' y='166'  >ldt75.png</text></a>
+  <rect x='233' y='137' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='146'  >07.05</text>
+  <rect x='453' y='197' width='78' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/07.06/gldt76.tar.bz2'><text x='454' y='206'  >gldt76.tar.bz2</text></a>
+  <rect x='453' y='177' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/07.06/gldt76.png'><text x='454' y='186'  >gldt76.png</text></a>
+  <rect x='233' y='157' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='166'  >07.06</text>
+  <rect x='453' y='237' width='78' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/09.02/gldt92.tar.bz2'><text x='454' y='246'  >gldt92.tar.bz2</text></a>
+  <rect x='453' y='217' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/09.02/gldt92.png'><text x='454' y='226'  >gldt92.png</text></a>
+  <rect x='233' y='197' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='206'  >09.02</text>
+  <rect x='453' y='277' width='78' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/09.03/gldt93.tar.bz2'><text x='454' y='286'  >gldt93.tar.bz2</text></a>
+  <rect x='453' y='257' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/09.03/gldt93.png'><text x='454' y='266'  >gldt93.png</text></a>
+  <rect x='233' y='237' width='32' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='246'  >09.03</text>
+  <rect x='453' y='337' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.02/gldt1002.tar.bz2'><text x='454' y='346'  >gldt1002.tar.bz2</text></a>
+  <rect x='453' y='297' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.02/gldt1002.png'><text x='454' y='306'  >gldt1002.png</text></a>
+  <rect x='453' y='317' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.02/gldt1002.svg'><text x='454' y='326'  >gldt1002.svg</text></a>
+  <rect x='233' y='277' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='286'  >10.02</text>
+  <rect x='453' y='397' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.03/gldt1003.tar.bz2'><text x='454' y='406'  >gldt1003.tar.bz2</text></a>
+  <rect x='453' y='357' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.03/gldt1003.png'><text x='454' y='366'  >gldt1003.png</text></a>
+  <rect x='453' y='377' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.03/gldt1003.svg'><text x='454' y='386'  >gldt1003.svg</text></a>
+  <rect x='233' y='337' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='346'  >10.03</text>
+  <rect x='453' y='457' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.04/gldt1004.tar.bz2'><text x='454' y='466'  >gldt1004.tar.bz2</text></a>
+  <rect x='453' y='417' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.04/gldt1004.png'><text x='454' y='426'  >gldt1004.png</text></a>
+  <rect x='453' y='437' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.04/gldt1004.svg'><text x='454' y='446'  >gldt1004.svg</text></a>
+  <rect x='233' y='397' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='406'  >10.04</text>
+  <rect x='453' y='517' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.05/gldt1005.tar.bz2'><text x='454' y='526'  >gldt1005.tar.bz2</text></a>
+  <rect x='453' y='477' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.05/gldt1005.png'><text x='454' y='486'  >gldt1005.png</text></a>
+  <rect x='453' y='497' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.05/gldt1005.svg'><text x='454' y='506'  >gldt1005.svg</text></a>
+  <rect x='233' y='457' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='466'  >10.05</text>
+  <rect x='453' y='577' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.06/gldt1006.tar.bz2'><text x='454' y='586'  >gldt1006.tar.bz2</text></a>
+  <rect x='453' y='537' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.06/gldt1006.png'><text x='454' y='546'  >gldt1006.png</text></a>
+  <rect x='453' y='557' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.06/gldt1006.svg'><text x='454' y='566'  >gldt1006.svg</text></a>
+  <rect x='233' y='517' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='526'  >10.06</text>
+  <rect x='453' y='637' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.07/gldt1007.tar.bz2'><text x='454' y='646'  >gldt1007.tar.bz2</text></a>
+  <rect x='453' y='597' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.07/gldt1007.png'><text x='454' y='606'  >gldt1007.png</text></a>
+  <rect x='453' y='617' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.07/gldt1007.svg'><text x='454' y='626'  >gldt1007.svg</text></a>
+  <rect x='233' y='577' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='586'  >10.07</text>
+  <rect x='453' y='697' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.08/gldt1008.tar.bz2'><text x='454' y='706'  >gldt1008.tar.bz2</text></a>
+  <rect x='453' y='657' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.08/gldt1008.png'><text x='454' y='666'  >gldt1008.png</text></a>
+  <rect x='453' y='677' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.08/gldt1008.svg'><text x='454' y='686'  >gldt1008.svg</text></a>
+  <rect x='233' y='637' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='646'  >10.08</text>
+  <rect x='453' y='757' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.09/gldt1009.tar.bz2'><text x='454' y='766'  >gldt1009.tar.bz2</text></a>
+  <rect x='453' y='717' width='74' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.09/gldt1009.png'><text x='454' y='726'  >gldt1009.png</text></a>
+  <rect x='453' y='737' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.09/gldt1009.svg'><text x='454' y='746'  >gldt1009.svg</text></a>
+  <rect x='233' y='697' width='31' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='706'  >10.09</text>
+  <rect x='453' y='817' width='91' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.10/gldt1010.tar.bz2'><text x='454' y='826'  >gldt1010.tar.bz2</text></a>
+  <rect x='453' y='777' width='73' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.10/gldt1010.png'><text x='454' y='786'  >gldt1010.png</text></a>
+  <rect x='453' y='797' width='71' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.10/gldt1010.svg'><text x='454' y='806'  >gldt1010.svg</text></a>
+  <rect x='233' y='757' width='30' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='766'  >10.10</text>
+  <rect x='453' y='877' width='90' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.11/gldt1011.tar.bz2'><text x='454' y='886'  >gldt1011.tar.bz2</text></a>
+  <rect x='453' y='837' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.11/gldt1011.png'><text x='454' y='846'  >gldt1011.png</text></a>
+  <rect x='453' y='857' width='70' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.11/gldt1011.svg'><text x='454' y='866'  >gldt1011.svg</text></a>
+  <rect x='233' y='817' width='29' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='826'  >10.11</text>
+  <rect x='453' y='937' width='91' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.12/gldt1012.tar.bz2'><text x='454' y='946'  >gldt1012.tar.bz2</text></a>
+  <rect x='453' y='897' width='73' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.12/gldt1012.png'><text x='454' y='906'  >gldt1012.png</text></a>
+  <rect x='453' y='917' width='71' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/10.12/gldt1012.svg'><text x='454' y='926'  >gldt1012.svg</text></a>
+  <rect x='233' y='877' width='30' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='886'  >10.12</text>
+  <rect x='453' y='997' width='90' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/11.01/gldt1101.tar.bz2'><text x='454' y='1006'  >gldt1101.tar.bz2</text></a>
+  <rect x='453' y='957' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/11.01/gldt1101.png'><text x='454' y='966'  >gldt1101.png</text></a>
+  <rect x='453' y='977' width='70' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/11.01/gldt1101.svg'><text x='454' y='986'  >gldt1101.svg</text></a>
+  <rect x='233' y='937' width='29' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='946'  >11.01</text>
+  <rect x='233' y='997' width='98' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/adfreebutton.png'><text x='234' y='1006'  >adfreebutton.png</text></a>
+  <rect x='453' y='1057' width='95' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/bsdt/bsdt1009.tar.bz2'><text x='454' y='1066'  >bsdt1009.tar.bz2</text></a>
+  <rect x='453' y='1017' width='78' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/bsdt/bsdt1009.png'><text x='454' y='1026'  >bsdt1009.png</text></a>
+  <rect x='453' y='1037' width='75' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/bsdt/bsdt1009.svg'><text x='454' y='1046'  >bsdt1009.svg</text></a>
+  <rect x='233' y='1017' width='24' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='1026'  >bsdt</text>
+  <rect x='233' y='1057' width='98' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/gldt-header1.png'><text x='234' y='1066'  >gldt-header1.png</text></a>
+  <rect x='453' y='1117' width='99' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/gnuclad/gnuclad-files.png'><text x='454' y='1126'  >gnuclad-files.png</text></a>
+  <rect x='453' y='1077' width='45' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/gnuclad/build.sh'><text x='454' y='1086'  >build.sh</text></a>
+  <rect x='453' y='1097' width='102' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/gnuclad/gldt1007-files.png'><text x='454' y='1106'  >gldt1007-files.png</text></a>
+  <rect x='233' y='1077' width='46' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='1086'  >gnuclad</text>
+  <rect x='453' y='1177' width='94' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/misc/sitemap1101.svg'><text x='454' y='1186'  >sitemap1101.svg</text></a>
+  <rect x='453' y='1137' width='88' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/misc/connectors.png'><text x='454' y='1146'  >connectors.png</text></a>
+  <rect x='453' y='1157' width='72' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/misc/sitemap.conf'><text x='454' y='1166'  >sitemap.conf</text></a>
+  <rect x='233' y='1117' width='26' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='1126'  >misc</text>
+  <rect x='453' y='1297' width='111' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/slackware1007.png'><text x='454' y='1306'  >slackware1007.png</text></a>
+  <rect x='453' y='1197' width='93' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/debian1007.png'><text x='454' y='1206'  >debian1007.png</text></a>
+  <rect x='453' y='1217' width='89' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/fedora1010.png'><text x='454' y='1226'  >fedora1010.png</text></a>
+  <rect x='453' y='1237' width='92' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/gentoo1010.png'><text x='454' y='1246'  >gentoo1010.png</text></a>
+  <rect x='453' y='1257' width='97' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/knoppix1010.png'><text x='454' y='1266'  >knoppix1010.png</text></a>
+  <rect x='453' y='1277' width='91' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/subtrees/redhat1007.png'><text x='454' y='1286'  >redhat1007.png</text></a>
+  <rect x='233' y='1177' width='49' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='1186'  >subtrees</text>
+  <rect x='673' y='1357' width='167' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/variants/natsel1011/gldt1011-naturalselection.svg'><text x='674' y='1366'  >gldt1011-naturalselection.svg</text></a>
+  <rect x='453' y='1317' width='110' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/variants/gldt1008-fancy.png'><text x='454' y='1326'  >gldt1008-fancy.png</text></a>
+  <rect x='673' y='1377' width='187' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/variants/natsel1011/gldt1011-naturalselection.tar.bz2'><text x='674' y='1386'  >gldt1011-naturalselection.tar.bz2</text></a>
+  <rect x='673' y='1337' width='169' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/variants/natsel1011/gldt1011-naturalselection.png'><text x='674' y='1346'  >gldt1011-naturalselection.png</text></a>
+  <rect x='453' y='1337' width='61' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='454' y='1346'  >natsel1011</text>
+  <rect x='233' y='1297' width='45' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='234' y='1306'  >variants</text>
+  <rect x='233' y='1377' width='58' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/x-png.png'><text x='234' y='1386'  >x-png.png</text></a>
+  <rect x='233' y='1397' width='56' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <a xlink:href='http://futurist.se/gldt/wp-content/uploads/x-svg.png'><text x='234' y='1406'  >x-svg.png</text></a>
+  <rect x='13' y='17' width='46' height='11' fill='#fff' opacity='0.8'  rx='5' ry='5' />
+  <text x='14' y='26'  >uploads</text>
+</g>
+
+<g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
+ style='stroke:none;fill:url(#__yearline);' >
+</g>
+
+<g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
+ style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='10' y='45' width='0' height='0' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='10' y='45' width='0' height='0' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+</g>
+
+<!-- BEGIN additional images -->
+
+<g inkscape:label='Included PNG Images' inkscape:groupmode='layer' id='layer_included_png'>
+</g>
+
+<g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
+</g>
+
+<!-- END additional images -->
+
+</svg>
